@@ -26,7 +26,7 @@ class App extends Component {
         { title: 'Contact', path: '/contact' }
       ],
       home: {
-        title: 'Be consistent Have a Will',
+        title: 'Be Consistent Have a Will',
         subTitle: 'Projects thats builds a knowledge',
         text: 'Checkout my projects below'
       },
